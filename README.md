@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethuSidharth
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently Data Science and Engineering aspirant.
+- 👀 I’m interested in learning and exploring new facts and technologies.
+- 🌱 I’m currently a Data Science and Engineering aspirant.
 
 
 <!---
